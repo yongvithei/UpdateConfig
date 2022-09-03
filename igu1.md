@@ -64,3 +64,37 @@ vmess://ew0KICAgICJ2IjogIjIiLA0KICAgICJwcyI6ICJzc2hvY2Vhbi0zMjR3ZSIsDQogICAgImFk
 
 
 vmess://eyJhZGQiOiJzZzMudm1lcy54eXoiLCJhaWQiOiIwIiwiaG9zdCI6Ind3dy5tb2JpbGVsZWdlbmRzLmNvbSIsImlkIjoiYWM5ZGE1Y2UtMjA5Zi00ODBjLTg4ZGQtZmMxNDgxNTY4MWQzIiwibmV0Ijoid3MiLCJwYXRoIjoiL0pBR09BTlNTSC8iLCJwb3J0IjoiODAiLCJwcyI6IjEyM3NzZ2hlLUpBR09BTlNTSCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+
+
+
+-- SSH Account Details --
+Username: speedyssh.com-werw45
+Password: dfsdvcwe
+Created: 2022-09-04
+Expired: 2022-09-11
+ 
+-- Basic Details --
+Location: Singapore
+IP Address: 68.183.182.162
+Host: csg03.bmqb.net
+SSH Port: 22
+Squid Port: 8080
+Dropbear Port: 550, 555, 701
+Stunnel Port: 443
+BadVPN Port: 7300
+Privoxy Port: 25800
+ 
+-- OHP Details --
+OHP+SSH Port: 8086
+OHP+Dropbear: 8085
+ 
+-- Websocket Details --
+SSH Websocket: 80
+SSL Websocket: 8443
+SSH Websocket Payload: GET / HTTP/1.1[crlf]Host: csg03.bmqb.net [crlf]Upgrade: websocket[crlf][crlf]
+ 
+-- SlowDNS Details --
+SSH SlowDNS Port: 2222
+SlowDNS Host: csg03-dns.bmqb.net
+Public Key: 28e9255ec06d9244c988fd9c4556b902bb19eaa3ba29824194f9303489b0d635
