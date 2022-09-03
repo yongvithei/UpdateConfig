@@ -42,3 +42,16 @@ vmess://eyJ0bHMiOiAibm9uZSIsICJ2IjogIjIiLCAiaG9zdCI6ICJzZzMudm1lcy54eXoiLCAidHlw
 
 
 HTTP/1.0 [crlf]Host: http://web.mobilelegends.com[crlf]Connection: keep-alive[crlf]User-Agent:[crlf]X-Online-Host: http://web.mobilelegends.com[crlf][crlf]
+
+
+Success !
+Server Host : ssh-3.sshstores.net
+Server Host Cloudflare : ssh-3.cdnws.me
+Username : 2e3erw3
+Password : 44424523
+SSL/TLS Port : 443,445
+Expired : 2022-09-11
+Squid Port: 80,3128
+Dropbear: 442,143
+Port SSH WS Alt: 8880
+UDPGW Port : 7313,7300,7390,7385,7376
