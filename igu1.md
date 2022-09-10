@@ -98,3 +98,8 @@ SSH Websocket Payload: GET / HTTP/1.1[crlf]Host: csg03.bmqb.net [crlf]Upgrade: w
 SSH SlowDNS Port: 2222
 SlowDNS Host: csg03-dns.bmqb.net
 Public Key: 28e9255ec06d9244c988fd9c4556b902bb19eaa3ba29824194f9303489b0d635
+
+
+
+
+vmess://eyJhZGQiOiJzZy52bWVzczQueHNlcnZzLnh5eiIsImFpZCI6IjAiLCJob3N0Ijoid3NjZG4ubWwueW91bmdqb3lnYW1lLmNvbSIsImlkIjoiYmE3ZjU1N2YtNGM0Yi00YjY3LTg2ZWItZDRkMWVlMzFiNzFjIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiIxNDA5R2hvc3QiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
