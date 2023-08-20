@@ -1,8 +1,3 @@
->special divert polar true income country category bridge glare ramp enjoy fashion tobacco uphold wet grocery hospital hover fatal animal gadget cactus salor 
->
-VK7JG-NPHTM-C97JM-9MPGT-3V66T
-
-
 -- SSH Account Details --
 Username: speedyssh.com-dawer23q2
 Password: 12344fdasc
